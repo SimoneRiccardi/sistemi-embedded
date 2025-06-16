@@ -10,7 +10,10 @@
 
 ---
 ## Utilizzo
-aprire il progetto dal file index.slx
+
+### aprire il progetto dal file: 
+#### **`index_simulink.slx`** per provare il progetto in ambiente matlab simulink (Model in the Loop) 
+#### **`index_stm32g4.slx`** per provare il progetto sulla scheda stm32g4 (Hardware in loop)
 
 ## Descrizione
 
