@@ -9,6 +9,9 @@
 **Relazione:** [Relazione Project Work SISTEMI EMBEDDED - Gruppo n.28 - 2024/2025](https://docs.google.com/document/d/1zWR1HbPM4Rj4tx8CWz6kViwjbDuj_L3I6IeZw9DyaNM/edit?usp=sharing)
 
 ---
+## Utilizzo
+aprire il progetto dal file index.slx
+
 ## Descrizione
 
 Realizzare un sistema il firmware di un sistema integrato di domotica che consente la gestione delle seguenti funzionalità:
