@@ -7,7 +7,7 @@
 **Gruppo:** n. 28
 
 **Relazione:** [Relazione Project Work SISTEMI EMBEDDED - Gruppo n.28 - 2024/2025](https://docs.google.com/document/d/1zWR1HbPM4Rj4tx8CWz6kViwjbDuj_L3I6IeZw9DyaNM/edit?usp=sharing)
-
+**Presentazione:** [Presentazione Project Work SISTEMI EMBEDDED - Gruppo n.28 - 2024/2025](https://docs.google.com/presentation/d/18FIxoS25EJeHLxz5_yFJY-8rVTJehiribgtOWQzXMGY/edit?usp=sharing)
 ---
 ## Utilizzo
 
